@@ -1,4 +1,3 @@
-# data-projects
 # StratEdge Consulting – BI & Analytics Project
 
 **Tools:** Power BI (dashboards), Salesforce (CRM leads), PostgreSQL (SQL data store), Python (EDA), Mockaroo (synthetic datasets)
